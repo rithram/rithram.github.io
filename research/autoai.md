@@ -14,6 +14,9 @@
 
 - Feffer, M., Hirzel, M., Hoffman, S. C., Kate, K., Ram, P., & Shinnar, A. (2022). **An empirical study of modular bias mitigators and ensembles**. [arXiv](https://arxiv.org/pdf/2202.00751.pdf)
 
+- Hirzel, M., Kate, K., Shinnar, A., Roy, S., & Ram, P. (2019). **Type-Driven Automated Learning with Lale**. [arXiv](https://arxiv.org/pdf/1906.03957.pdf)
+
+
 ## Conference
 
 - Ram, P. (2022). **On the Optimality Gap of Warm-Started Hyperparameter Optimization**. In *International Conference on Automated Machine Learning* (pp. 12-1). PMLR. [paper](https://proceedings.mlr.press/v188/ram22a/ram22a.pdf)
@@ -32,6 +35,13 @@
 - Marinescu, R., Kishimoto, A., Ram, P., Rawat, A., Wistuba, M., Palmes, P. P., & Botea, A. (2021). **Searching for machine learning pipelines using a context-free grammar**. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 35, No. 10, pp. 8902-8911). [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17077)
 
 - Katz, M., Ram, P., Sohrabi, S., & Udrea, O. (2020, June). **Exploring context-free languages via planning: The case for automating machine learning**. In *Proceedings of the International Conference on Automated Planning and Scheduling* (Vol. 30, pp. 403-411). [paper](https://ojs.aaai.org/index.php/ICAPS/article/view/6686)
+
+- Liu, S., Ram, P., Vijaykeerthy, D., Bouneffouf, D., Bramble, G., Samulowitz, H., Wang, D., Conn, A. & Gray, A. (2020). **An ADMM based framework for AutoML pipeline configuration**. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 34, No. 04, pp. 4892-4899). [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5926) [arXiv](https://arxiv.org/pdf/1905.00424.pdf) **(IBM Research Pat Goldberg 2020 Finalist)**
+
+- Wang, D., Ram, P., Weidele, D. K. I., Liu, S., Muller, M., Weisz, J. D., ... & Amini, L. (2020). **AutoAI: Automating the end-to-end AI lifecycle with humans-in-the-loop**. In *Proceedings of the 25th International Conference on Intelligent User Interfaces Companion* (pp. 77-78). [website](https://dl.acm.org/doi/abs/10.1145/3379336.3381474) [paper](https://www.researchgate.net/profile/Dakuo-Wang/publication/339914192_AutoAI_Automating_the_End-to-End_AI_Lifecycle_with_Humans-in-the-Loop/links/606ad1eb458515614d364c65/AutoAI-Automating-the-End-to-End-AI-Lifecycle-with-Humans-in-the-Loop.pdf)
+
+- Wang, D., Weisz, J. D., Muller, M., Ram, P., Geyer, W., Dugan, C., ... & Gray, A. (2019). **Human-AI collaboration in data science: Exploring data scientists' perceptions of automated AI**. *Proceedings of the ACM on human-computer interaction, 3(CSCW)*, 1-24. [website](https://dl.acm.org/doi/abs/10.1145/3359313) [paper](https://arxiv.org/pdf/1909.02309.pdf)
+
 
 ## Workshop
 
@@ -53,4 +63,4 @@
 
 ## Survey
 
-- Bouneffouf, D., Aggarwal, C., Hoang, T., Khurana, U., Samulowitz, H., Buesser, B., Liu, S., Pedapati, T., Ram, P., Rawat, A., Wistuba, M. & Gray, A. (2020). **Survey on automated end-to-end data science**. In 2020 *International Joint Conference on Neural Networks (IJCNN)* (pp. 1-9). IEEE. [webpage](https://ieeexplore.ieee.org/abstract/document/9207453) [paper](https://www.researchgate.net/profile/Djallel-Bouneffouf/publication/343263430_Survey_on_Automated_End-to-End_Data_Science/links/5fa184b4458515b7cfb5f180/Survey-on-Automated-End-to-End-Data-Science.pdf)
+- Bouneffouf, D., Aggarwal, C., Hoang, T., Khurana, U., Samulowitz, H., Buesser, B., Liu, S., Pedapati, T., Ram, P., Rawat, A., Wistuba, M. & Gray, A. (2020). **Survey on automated end-to-end data science**. In 2020 *International Joint Conference on Neural Networks (IJCNN)* (pp. 1-9). IEEE. [webpage](https://ieeexplore.ieee.org/abstract/document/9207453) [paper](https://www.researchgate.net/profile/Djallel-Bouneffouf/publication/343263430_Survey_on_Automated_End-to-End_Data_Science/links/5fa184b4458515b7cfb5f180/Survey-on-Automated-End-to-End-Data-Science.pdf) [arXiv](https://arxiv.org/pdf/1910.14436.pdf)
