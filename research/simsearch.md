@@ -12,7 +12,7 @@
 
 - Koenigstein, N., Ram, P., & Shavitt, Y. (2012). **Efficient retrieval of recommendations in a matrix factorization framework**. In *Proceedings of the 21st ACM international conference on Information and knowledge management* (pp. 535-544). [paper](./papers/2012/KRS_CIKM12.pdf)
 
--Ram, P., & Gray, A. G. (2012). **Maximum inner-product search using cone trees**. In *Proceedings of the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (pp. 931-939). [paper](./papers/2012/RG_KDD12.pdf) [code](https://github.com/mlpack/mlpack/blob/4.0.1/doc/tutorials/fastmks.md) [arXiv](https://arxiv.org/pdf/1202.6101.pdf)
+- Ram, P., & Gray, A. G. (2012). **Maximum inner-product search using cone trees**. In *Proceedings of the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (pp. 931-939). [paper](./papers/2012/RG_KDD12.pdf) [code](https://github.com/mlpack/mlpack/blob/4.0.1/doc/tutorials/fastmks.md) [arXiv](https://arxiv.org/pdf/1202.6101.pdf)
 
 - Ram, P., Lee, D., & Gray, A. G. (2012). **Nearest-neighbor search on a time budget via max-margin trees**. In *Proceedings of the 2012 SIAM International Conference on Data Mining* (pp. 1011-1022). Society for Industrial and Applied Mathematics. [paper](https://epubs.siam.org/doi/reader/10.1137/1.9781611972825.87)
 
