@@ -1,8 +1,18 @@
-**Interests.** Similarity search, efficient all-pairs algorithms, density estimation, computational geometry, kernel methods, decision trees, ensembles, automated machine learning and data science.
+# Research Interests
 
-**Publications.** Google scholar [profile](https://scholar.google.com/citations?user=JaXmmnkAAAAJ&hl=en)
+
+- [Bilevel Optimization](./research/bilevel.md)
+- [Automated Machine Learning / Artificial Intelligence / Data Science](./research.autoai.md)
+- [Density Estimation](./research/dest.md)
+- [Computation Geometry, All-Pairs Problem](./research/cgallpairs.md)
+- [Similarity Search](./research/simsearch.md)
+
+
+**Google Scholar.**
+See my [profile](https://scholar.google.com/citations?hl=en&user=JaXmmnkAAAAJ&sortby=pubdate) for a chronologically sorted list of publications.
+
 
 **Experience.**
 
-- Programming languages: C/C++, Python
-- Frameworks/libraries: OpenMP, MPI
+- Programming languages: Python, C/C++
+- Frameworks/libraries: Pytorch, Scikit-Learn, [Lale](https://github.com/IBM/lale), OpenMP, MPI
