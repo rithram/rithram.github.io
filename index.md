@@ -3,9 +3,11 @@
 
 - [Bilevel Optimization](./research/bilevel.md)
 - [Automated Machine Learning / Artificial Intelligence / Data Science](./research.autoai.md)
+- [Neuro-Inspired Learning](./research/neuro.md)
 - [Density Estimation](./research/dest.md)
 - [Computation Geometry, All-Pairs Problem](./research/cgallpairs.md)
 - [Similarity Search](./research/simsearch.md)
+
 
 
 **Google Scholar.**
