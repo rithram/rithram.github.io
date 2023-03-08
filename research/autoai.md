@@ -25,7 +25,9 @@
 
 - Kannan, A., Choudhury, A. R., Saxena, V., Raje, S., Ram, P., Verma, A., & Sabharwal, Y. (2021). **HyperASPO: Fusion of Model and Hyper Parameter Optimization for Multi-objective Machine Learning**. In 2021 *IEEE International Conference on Big Data (Big Data)* (pp. 790-800). IEEE. [website](https://ieeexplore.ieee.org/abstract/document/9671604)
 
+- Baudart, G., Hirzel, M., Kate, K., Ram, P., Shinnar, A., & Tsay, J. (2021). **Pipeline combinators for Gradual AutoML**. *Advances in Neural Information Processing Systems*, 34, 19705-19718. [paper](https://proceedings.neurips.cc/paper/2021/hash/a3b36cb25e2e0b93b5f334ffb4e4064e-Abstract.html) [Lale](https://github.com/IBM/lale)
 
+- Subramanian, D., Wasserkrug, S., Murali, P., Phan, D., Ram, P., Davidovich, O., Ceugniet, X. & Katai, F. (2021). **Data and Knowledge Driven Optimization Model Generation for Flow Based Optimization Problems**. In *INFORMS Annual Meeting*. [website](https://research.ibm.com/publications/data-and-knowledge-driven-optimization-model-generation-for-flow-based-optimization-problems)
 
 ## Workshop
 
