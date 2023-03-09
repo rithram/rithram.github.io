@@ -34,4 +34,4 @@
 
 ## Thesis
 
-- Ram, P. (2013). **New paradigms for approximate nearest-neighbor search** (Doctoral dissertation, Georgia Institute of Technology). [website](https://smartech.gatech.edu/handle/1853/49112) [document](./research/papers/2013/RAM-DISSERTATION-2013.pdf)
+- Ram, P. (2013). **New paradigms for approximate nearest-neighbor search** (Doctoral dissertation, Georgia Institute of Technology). [website](https://smartech.gatech.edu/handle/1853/49112) [document](./papers/2013/RAM-DISSERTATION-2013.pdf)

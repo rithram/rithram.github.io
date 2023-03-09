@@ -3,5 +3,4 @@ logo: /img/pr-mug.jpg
 description: Research interests and publications
 github_username: rithram
 
-markdown: kramdown
 theme: jekyll-theme-minimal
