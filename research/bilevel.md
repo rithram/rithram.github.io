@@ -1,19 +1,5 @@
 # Bilevel Optimization
 
-Given some variable <span>$x \in X$</span> and $y \in Y$ and functions $f, g: X \times Y \to \mathbb{R}$, bilevel optimization is written as the following optimization problem:
-
-$$
-\min_{x \in X} f(x, y^\star(x)) \quad \text{\tt subject to } \quad y^\star(x) \in \arg \min_{y \in Y} g(x, y).
-$$
-
-Stochastic bilevel optimization pertains to the case where the functions $f,g$ are stochastic functions with stochastic oracles $\xi$ and $\psi$ such that
-
-$$
-f(x, y) \triangleq \mathbb{E}_{\xi} F(x, y; \xi), \quad g(x, y) \triangleq \mathbb{E}_{\psi} G(x, y; \psi),
-$$
-
-which is common in AI/ML where the functions $F, G$ are training/validation losses on some batch of the data.
-
 ## Appearing soon
 
 - Ram, P., Gray, A. G., Samulowitz, H. C., & Bramble, G. (2023). **Toward Theoretical Guidance for Two Common Questions in Practical Cross-Validation based Hyperparameter Selection**. To appear in *SIAM Internation Conference on Data Mining*. [arXiv](https://arxiv.org/pdf/2301.05131.pdf)
