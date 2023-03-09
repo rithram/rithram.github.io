@@ -1,10 +1,11 @@
 # Bilevel Optimization
 
-Given some variable <span>$x \in X$</span> and $y \in Y$ and functions $f, g: X \times Y \to \mathbb{R}$, bilevel optimization is written as the following optimization problem:
+Given some variable $$x \in X$$ and $y \in Y$ and functions $f, g: X \times Y \to \mathbb{R}$, bilevel optimization is written as the following optimization problem:
 
 $$
-\min_{x \in X} f(x, y^\star(x)) \quad \text{\tt subject to } \quad y^\star(x) \in \arg \min_{y \in Y} g(x, y).
+\min_{x \in X} f(x, y^\star(x)) \quad \text{ subject to } \quad y^\star(x) \in \arg \min_{y \in Y} g(x, y).
 $$
+
 
 
 ## Appearing soon
