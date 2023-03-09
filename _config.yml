@@ -2,6 +2,6 @@ title: Parikshit Ram
 logo: /img/pr-mug.jpg
 description: Research interests and publications
 github_username: rithram
-email: [first-letter-of-first-name][last-name]@[something-that-quacks].com
+
 markdown: kramdown
 theme: jekyll-theme-minimal
