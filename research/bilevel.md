@@ -30,7 +30,7 @@ which is common in AI/ML where the functions $$F, G$$ are training/validation lo
 
 - Zhang, Y., Yao, Y., Ram, P., Zhao, P., Chen, T., Hong, M. & Liu, S. (2022). **Advancing Model Pruning via Bi-level Optimization**. In *Annual Conference on Neural Information Processing Systems*. [arXiv](https://arxiv.org/pdf/2210.04092.pdf) [OpenReview](https://openreview.net/forum?id=t6O08FxvtBY)
 
-- Gu, A., Lu, S., **Ram, P.**, & Weng, L. (2022). **Robust Multi-objective Bilevel Optimization With Applications In Machine Learning**. In *INFORMS Annual Meeting*. [webpage](https://research.ibm.com/publications/robust-multi-objective-bilevel-optimization-with-applications-in-machine-learning)
+- Gu, A., Lu, S., **Ram, P.**, & Weng, L. (2022). **Robust Multi-objective Bilevel Optimization With Applications In Machine Learning**. In *INFORMS Annual Meeting*. [webpage](https://research.ibm.com/publications/robust-multi-objective-bilevel-optimization-with-applications-in-machine-learning) [slides](./papers/2022/GLRW_INFORMS22.pdf)
 
 - Teng, Y., Choromanska, A., Campbell, M., Lu, S., Ram, P., & Horesh, L. (2022). **Overcoming Catastrophic Forgetting via Direction-Constrained Optimization**. In *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases*. [paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1288.pdf)
 
