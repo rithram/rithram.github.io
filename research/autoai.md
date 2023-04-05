@@ -19,7 +19,7 @@
 
 ## Conference
 
-- Ram, P. (2022). **On the Optimality Gap of Warm-Started Hyperparameter Optimization**. In *International Conference on Automated Machine Learning* (pp. 12-1). PMLR. [paper](https://proceedings.mlr.press/v188/ram22a/ram22a.pdf) [slides](./papers/2022/R_AutoML22.slides.pdf)
+- Ram, P. (2022). **On the Optimality Gap of Warm-Started Hyperparameter Optimization**. In *International Conference on Automated Machine Learning* (pp. 12-1). PMLR. [paper](https://proceedings.mlr.press/v188/ram22a/ram22a.pdf) [slides](./papers/2022/R_AutoML22.slides.pdf) [proofs](./papers/2022/R_AutoML22.paper.pdf)
 
 - Hirzel, M., Kate, K., Ram, P., Shinnar, A., & Tsay, J. (2022). **Gradual AutoML using Lale**. In *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (pp. 4794-4795). [paper](http://hirzels.com/martin/papers/kdd22-tutorial-lale.pdf) [tutorial](https://github.com/IBM/lale/tree/master/examples/kdd22)
 
