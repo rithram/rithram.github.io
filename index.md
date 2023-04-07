@@ -24,6 +24,8 @@ You can find a chronologically sorted list of my publications on my [Google Scho
 - Frameworks/libraries: Pytorch, Scikit-Learn, [Lale](https://github.com/IBM/lale), OpenMP, MPI
 
 
-# Personal details
+## Miscellaneous
 
 - [Biosketch](./biosketch.md)
+- Quick access to [tools](./misc/tools.md) I use
+- (Current) Reading [list](./misc/rlist.md)

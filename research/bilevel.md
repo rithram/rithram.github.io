@@ -22,9 +22,9 @@ which is common in AI/ML where the functions $$F, G$$ are training/validation lo
 
 - Gu, A., Lu, S., Ram, P., & Weng, L. (2022). **Min-max Bilevel Multi-objective Optimization with Applications in Machine Learning**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2203.01924.pdf) [OpenReview](https://openreview.net/forum?id=PvDY71zKsvP)
 
-- Zhou, Y., Ram, P., Salonidis, T., Baracaldo, N., Samulowitz, H., & Ludwig, H. (2022). **Single-shot Hyper-parameter Optimization for Federated Learning: A General Algorithm & Analysis**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2202.08338.pdf) [OpenReview](https://openreview.net/forum?id=3RhuF8foyPW) **(notable-top-25%)**
+- Zhou, Y., Ram, P., Salonidis, T., Baracaldo, N., Samulowitz, H., & Ludwig, H. (2022). **Single-shot Hyper-parameter Optimization for Federated Learning: A General Algorithm & Analysis**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2202.08338.pdf) [OpenReview](https://openreview.net/forum?id=3RhuF8foyPW)  [slides](./papers/2023/ZRSBRL_ICLR23.slides.pdf) **(notable-top-25%)**
 
-- Zhang, Y., Sharma, P., Ram, P., Hong, M., Varshney, K. R., & Liu, S. (2023) **What Is Missing in IRM Training and Evaluation? Challenges and Solutions**. To appear in *International Conference in Learning Representations*. [arXiv](./tbd.md) [OpenReview](https://openreview.net/forum?id=MjsDeTcDEy)
+- Zhang, Y., Sharma, P., Ram, P., Hong, M., Varshney, K. R., & Liu, S. (2023) **What Is Missing in IRM Training and Evaluation? Challenges and Solutions**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2303.02343.pdf) [OpenReview](https://openreview.net/forum?id=MjsDeTcDEy)
 
 ## Conference
 
