@@ -61,8 +61,8 @@
 - [sklearn API](http://scikit-learn.org/stable/modules/classes.html)
 - [sklearn 0.20 API](https://scikit-learn.org/0.20/modules/classes.html)
 - [3.3. Model evaluation: quantifying the quality of predictions -- scikit-learn 0.20.4 documentation](https://scikit-learn.org/0.20/modules/model_evaluation.html#scoring-parameter)
-- [Recipe/bnf at master · laic-ufmg/Recipe](https://github.com/laic-ufmg/Recipe/tree/master/bnf)
-- [Resources on Machine Learning for Big Code and Naturalness · Machine Learning for Big Code and Naturalness](https://ml4code.github.io/resources.html)
+- [Recipe/bnf at master | laic-ufmg/Recipe](https://github.com/laic-ufmg/Recipe/tree/master/bnf)
+- [Resources on Machine Learning for Big Code and Naturalness | Machine Learning for Big Code and Naturalness](https://ml4code.github.io/resources.html)
 - [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/pdf/1709.06182.pdf)
 
 ### Data repositories
