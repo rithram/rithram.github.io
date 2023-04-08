@@ -16,7 +16,7 @@
 - [TikZ Full Manual](https://pgf-tikz.github.io/pgf/pgfmanual.pdf)
 - [Overleaf beamer templates](https://www.overleaf.com/latex/templates/tagged/beamer)
 - [PGF/TikZ - Graphics for LaTeX - A tutorial](https://www.math.uni-leipzig.de/~hellmund/LaTeX/pgf-tut.pdf)
-- [TikZ Tutorial](https://web.mit.edu/custer/Desktop/custer/MacData/afs/sipb/project/latex/tutorial_latex_tikz.pdf
+- [TikZ Tutorial](https://web.mit.edu/custer/Desktop/custer/MacData/afs/sipb/project/latex/tutorial_latex_tikz.pdf)
 - [Specifying Graphs - PGF/TikZ Manual](https://tikz.dev/tikz-graphs)
 - [TikZ examples tag: Graphs](https://texample.net/tikz/examples/tag/graphs/)
 - [Specifying Graphs - PGF/TikZ Manual](https://tikz.dev/tikz-graphs#sec-19.2.2)
@@ -29,7 +29,7 @@
 - [The TeX Live Guide -- 2020](https://tug.org/texlive/doc/texlive-en/texlive-en.html#x1-24037r5)
 - [The TeX Live Guide -- 2021](https://www.tug.org/texlive/doc/texlive-en/texlive-en.html#installation)
 - [Quick install - TeX Live](https://tug.org/texlive/quickinstall.html)
-- [List of LaTeX symbols | LaTeX Wiki | Fandom](https://latex.wikia.org/wiki/List_of_LaTeX_symbols#Class_3_.28Rel.29_symbols:_relation_.2F_comparison_.28.22verb.22.29)
+- [List of LaTeX symbols - LaTeX Wiki - Fandom](https://latex.wikia.org/wiki/List_of_LaTeX_symbols#Class_3_.28Rel.29_symbols:_relation_.2F_comparison_.28.22verb.22.29)
 - [Setting up Visual Studio Code for LaTeX](https://pwsmith.github.io/2020/06/05/setting-up-a-text-editor-for-latex-vscode/#fn:kt)
 - [tcolorbox manual](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/tcolorbox/tcolorbox.pdf)
 
@@ -49,10 +49,10 @@
 
 - [Git subtree: the alternative to Git submodule](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree)
 - [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
-- [Git subtree: the alternative to Git submodule | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-subtree)
-- [Git Submodules vs Git Subtrees | Code Wins Arguments](https://codewinsarguments.co/2016/05/01/git-submodules-vs-git-subtrees/)
+- [Git subtree: the alternative to Git submodule - Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-subtree)
+- [Git Submodules vs Git Subtrees - Code Wins Arguments](https://codewinsarguments.co/2016/05/01/git-submodules-vs-git-subtrees/)
 - [Merging a subdirectory from another repo via git-subtree](https://jrsmith3.github.io/merging-a-subdirectory-from-another-repo-via-git-subtree.html)
-- [Working with Tables in GitHub Markdown | Pluralsight](https://www.pluralsight.com/guides/working-tables-github-markdown)
+- [Working with Tables in GitHub Markdown - Pluralsight](https://www.pluralsight.com/guides/working-tables-github-markdown)
 - [Edit fiddle - JSFiddle - Code Playground](https://jsfiddle.net/8ndx694g/)
 
 
@@ -61,8 +61,8 @@
 - [sklearn API](http://scikit-learn.org/stable/modules/classes.html)
 - [sklearn 0.20 API](https://scikit-learn.org/0.20/modules/classes.html)
 - [3.3. Model evaluation: quantifying the quality of predictions -- scikit-learn 0.20.4 documentation](https://scikit-learn.org/0.20/modules/model_evaluation.html#scoring-parameter)
-- [Recipe/bnf at master | laic-ufmg/Recipe](https://github.com/laic-ufmg/Recipe/tree/master/bnf)
-- [Resources on Machine Learning for Big Code and Naturalness | Machine Learning for Big Code and Naturalness](https://ml4code.github.io/resources.html)
+- [Recipe/bnf at master - laic-ufmg/Recipe](https://github.com/laic-ufmg/Recipe/tree/master/bnf)
+- [Resources on Machine Learning for Big Code and Naturalness - Machine Learning for Big Code and Naturalness](https://ml4code.github.io/resources.html)
 - [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/pdf/1709.06182.pdf)
 
 ### Data repositories

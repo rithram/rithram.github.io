@@ -1,6 +1,6 @@
 # Biosketch
 
-![mugshot](./img/pr-mug.jpg)
+![mugshot](./img/pr-mug.jpg){width=40}
 
 Parikshit Ram is a Principal Research Staff Member in IBM Research, NY with research expertise in similarity search, efficient all-pairs algorithms, density estimation, computational geometry, kernel methods, decision trees, ensembles, automated machine learning and data science. He currently conducts basic mathematical and applied computational research on topics pertinent to automated machine learning and automated decision optimization as well as various aspects of generalization and learning with less data. Prior to joining IBM Research, he was a Senior Research Staff Member at Skytree, a machine learning company focused on providing high performance machine learning tools for large scale modeling and  data analysis, which was subsequently acquired by Infosys. Parikshit received his Ph.D. in machine learning at Georgia Institute of Technology and a B.Sc. and M.Sc. in Mathematics and Computing from the Indian Institute of Technology. He has been in the program committee of top conferences and recognized as a top reviewer at ICML and NeurIPS multiple times.
 
