@@ -17,5 +17,5 @@ Somewhat organized
 - [Recent Advances in High-Dimensional Robust Statistics](http://www.iliasdiakonikolas.org/icml-robust-tutorial.html)
 - [Theoretical Foundations of Reinforcement Learning](https://hunch.net/~tforl/)
 - [Optimal Transport for Machine Learning tutorial](https://remi.flamary.com/cours/tuto_otml.html)
-
+- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
