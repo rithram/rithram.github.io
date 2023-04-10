@@ -4,7 +4,7 @@
 
 - Ram, P., Gray, A. G., Samulowitz, H. C., & Bramble, G. (2023). **Toward Theoretical Guidance for Two Common Questions in Practical Cross-Validation based Hyperparameter Selection**. *SIAM Internation Conference on Data Mining*. [arXiv](https://arxiv.org/pdf/2301.05131.pdf)
 
-- Zhou, Y., Ram, P., Salonidis, T., Baracaldo, N., Samulowitz, H., & Ludwig, H. (2023). **Single-shot Hyper-parameter Optimization for Federated Learning: A General Algorithm & Analysis**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2202.08338.pdf) [OpenReview](https://openreview.net/forum?id=3RhuF8foyPW) [slides](./papers/2023/ZRSBRL_ICLR23.slides.pdf) **(notable-top-25%)**
+- Zhou, Y., Ram, P., Salonidis, T., Baracaldo, N., Samulowitz, H., & Ludwig, H. (2023). **Single-shot Hyper-parameter Optimization for Federated Learning: A General Algorithm & Analysis**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2202.08338.pdf) [OpenReview](https://openreview.net/forum?id=3RhuF8foyPW) [slides](./papers/2023/ZRSBSL_ICLR23.slides.pdf) **(notable-top-25%)**
 
 - Dube, P., Salonidis, T., Ram, P., & Verma, A. (2023). **Runtime Prediction of Machine Learning Algorithms in AutoML Systems**. To appear in *IEEE International Conference on Acoustics, Speech and Signal Processing*. *(paper coming soon)*
 

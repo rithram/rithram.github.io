@@ -28,7 +28,7 @@ Somewhat organized
 ### Algorithms (unsorted)
 
 - [REINFORCE algorithm paper](https://link.springer.com/content/pdf/10.1007/BF00992696.pdf)
-- [Search Algorithms for $m$-Best Solutions for Graphical Models](https://ojs.aaai.org/index.php/AAAI/article/view/8405)
+- [Search Algorithms for $$m$$-Best Solutions for Graphical Models](https://ojs.aaai.org/index.php/AAAI/article/view/8405)
 - [Select-and-Evaluate: A Learning Framework for Large-Scale Knowledge Graph Search](http://proceedings.mlr.press/v77/chowdhury17a/chowdhury17a.pdf)
 
 
