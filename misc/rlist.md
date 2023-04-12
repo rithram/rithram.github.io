@@ -104,6 +104,16 @@ Somewhat organized
 ### Boosting
 
 
-# Symbolic Regression / Interpretability
+### Experimental Design
+
+- [Numerical methods for experimental design of large-scale linear ill-posed inverse problems](https://iopscience.iop.org/article/10.1088/0266-5611/24/5/055012/pdf?casa_token=pGlR6wOpQTsAAAAA:pWIg_9ZA_IziORF2yROOp9HHNgU1u8PtN1jLt2msAHz7VNhz0yZ8K34oggQ7LF9lygCOkhifwdIkol_yWEY)
+- [Numerical methods for the design of large-scale nonlinear discrete ill-posed inverse problems](https://iopscience.iop.org/article/10.1088/0266-5611/26/2/025002/pdf?casa_token=5JfC7ij6RoQAAAAA:llRvUA3nE9oIJxBZnXV9BCBnwZgMDBdH4D7F6mTA7CCDpinifSMJ-ja1UQ9alZIfT05zetDgo0rRyCdee0c)
+- [Dynamic graph and polynomial chaos based models for contact tracing data analysis and optimal testing prescription](https://reader.elsevier.com/reader/sd/pii/S1532046421002306?token=3724183EC84AA4D423B2C47F1D3682B318958B0A2E38AD473D3AF805B353105C626213B0CC203409993283CC5D0008EA&originRegion=us-east-1&originCreation=20230412162804)
+
+
+### Interpretability
+
+
+### Symbolic Regression
 
 - [Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients](https://openreview.net/pdf?id=m5Qsh0kBQG)
