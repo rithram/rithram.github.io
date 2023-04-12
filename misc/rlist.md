@@ -41,7 +41,7 @@ Somewhat organized
 - []()
 
 
-#### Toolkits
+#### AutoML / Toolkits
 
 - [FLAML](https://arxiv.org/pdf/1911.04706.pdf)
 - [FLAML: A Fast and Lightweight AutoML Library](https://www.microsoft.com/en-us/research/uploads/prod/2021/03/MLSys21FLAML.pdf)
@@ -53,7 +53,7 @@ Somewhat organized
 - []()
 
 
-#### CASH
+#### AutoML / CASH
 
 - [Selecting Near-Optimal Learners via Incremental Data Allocation](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12524/11835)
 - [Non-stochastic Best Arm Identification and Hyperparameter Optimization](http://proceedings.mlr.press/v51/jamieson16.pdf)
@@ -63,7 +63,7 @@ Somewhat organized
 - [Exploiting Reuse in Pipeline-Aware Hyperparameter Tuning](https://arxiv.org/pdf/1903.05176.pdf)
 - []()
 
-#### BBO
+#### AutoML / BBO
 
 - [Embedded Bandits for Large-Scale Black-Box Optimization](https://arxiv.org/pdf/1611.08773.pdf)
 - [Scalable Global Optimization via Local Bayesian Optimization](https://papers.nips.cc/paper/8788-scalable-global-optimization-via-local-bayesian-optimization.pdf)
@@ -74,7 +74,7 @@ Somewhat organized
 - [Noisy BBOpt Multi-Fidelity Queries: TreeSearch](https://arxiv.org/pdf/1810.10482.pdf)
 
 
-#### Combinatorial BBO
+#### AutoML / Combinatorial BBO
 
 - [AutoML Pipeline Selection: Efficiently Navigating the Combinatorial Space](https://dl.acm.org/doi/pdf/10.1145/3394486.3403197)
 - [Optimizing Discrete Spaces via Expensive Evaluations: A Learning to Search Framework](https://aaai.org/ojs/index.php/AAAI/article/view/5788)
@@ -92,7 +92,7 @@ Somewhat organized
 
 
 
-#### Meta-learning
+#### AutoML / Meta-learning
 
 - [Meta-Learning for Symbolic Hyperparameter Defaults](https://arxiv.org/pdf/2106.05767.pdf)
 
