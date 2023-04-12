@@ -104,6 +104,12 @@ Somewhat organized
 ### Boosting
 
 
+### Compositional Generalization
+
+- [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731.pdf)
+
+
+
 ### Experimental Design
 
 - [Numerical methods for experimental design of large-scale linear ill-posed inverse problems](https://iopscience.iop.org/article/10.1088/0266-5611/24/5/055012/pdf?casa_token=pGlR6wOpQTsAAAAA:pWIg_9ZA_IziORF2yROOp9HHNgU1u8PtN1jLt2msAHz7VNhz0yZ8K34oggQ7LF9lygCOkhifwdIkol_yWEY)
@@ -112,6 +118,11 @@ Somewhat organized
 
 
 ### Interpretability
+
+
+### Learning Theory
+
+
 
 
 ### Symbolic Regression
