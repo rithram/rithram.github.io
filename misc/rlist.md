@@ -72,6 +72,8 @@ Somewhat organized
 - [Assessing Hyperparameter Importance](https://www.cs.ubc.ca/~hoos/Publ/HutEtAl14b.pdf)
 - [Multi-Fidelity BBOpt with Hierarchical Partitions](http://proceedings.mlr.press/v80/sen18a/sen18a.pdf)
 - [Noisy BBOpt Multi-Fidelity Queries: TreeSearch](https://arxiv.org/pdf/1810.10482.pdf)
+- [Hyperband demo by kgjamieson](https://homes.cs.washington.edu/~jamieson/hyperband.html)
+- [Hyper-parameter Tuning under a Budget Constraint](https://www.ijcai.org/Proceedings/2019/0796.pdf)
 
 
 #### AutoML / Combinatorial BBO
