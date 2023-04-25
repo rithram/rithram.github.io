@@ -106,10 +106,10 @@ Somewhat organized
 ### Boosting
 
 
+
 ### Compositional Generalization
 
 - [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731.pdf)
-
 
 
 ### Experimental Design
@@ -123,6 +123,15 @@ Somewhat organized
 
 
 ### Learning Theory
+
+
+
+### Large Language Models & Transformers
+
+- [Efficient Transformers: A Survey](https://dl.acm.org/doi/pdf/10.1145/3530811)
+- [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238.pdf)
+- [Do Transformers Parse while Predicting the Masked Word?](https://arxiv.org/pdf/2303.08117.pdf)
+- [Mass-editing Memory in a Transformer](https://arxiv.org/pdf/2210.07229.pdf)
 
 
 
