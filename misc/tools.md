@@ -44,6 +44,7 @@
 - [Get Started Tutorial for Python in Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial)
 - [Python and Data Science Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/data-science-tutorial)
 - [Jupyter Notebook Kernels: How to Add, Change, Remove](https://queirozf.com/entries/jupyter-kernels-how-to-add-change-remove#list-kernels)
+- [Adjust text to remove overlap in plots](https://github.com/Phlya/adjustText)
 
 ## Git
 
