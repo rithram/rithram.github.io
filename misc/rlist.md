@@ -109,7 +109,15 @@ Somewhat organized
 
 ### Compositional Generalization
 
+#### Benchmarks
 - [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation](https://aclanthology.org/2020.emnlp-main.731.pdf)
+- [A Study of Compositional Generalization in Neural Models](https://arxiv.org/pdf/2006.09437.pdf)
+
+
+#### Algorithms
+- [How Do In-Context Examples Affect Compositional Generalization?](https://arxiv.org/pdf/2305.04835.pdf)
+- [Compositional Semantic Parsing With Large Language Models](https://arxiv.org/pdf/2209.15003.pdf)
+
 
 
 ### Experimental Design
