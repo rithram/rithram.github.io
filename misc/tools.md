@@ -10,6 +10,8 @@
 
 ## Latex
 
+- [TexLive installation on stack-exchange](https://tex.stackexchange.com/questions/1092/how-to-install-vanilla-texlive-on-debian-or-ubuntu)
+- [TaxLive quick install](https://tug.org/texlive/quickinstall.html)
 - [MathJax Play Area](https://www.checkmyworking.com/misc/MathJax-play-area/)
 - [Sciweavers Latex Equation](http://www.sciweavers.org/free-online-latex-equation-editor)
 - [TikZ Minimal](https://cremeronline.com/LaTeX/minimaltikz.pdf)
