@@ -114,7 +114,11 @@ Somewhat organized
 - [A Study of Compositional Generalization in Neural Models](https://arxiv.org/pdf/2006.09437.pdf)
 
 
-#### Algorithms
+#### Formulations & Algorithms
+- [From Compositional to Systematic Semantics](https://arxiv.org/pdf/cmp-lg/9503024.pdf)
+- [Compositionality I: Definitions & Variants](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1747-9991.2009.00228.x)
+- [Compositionality II: Arguments & Problems](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1747-9991.2009.00229.x)
+- [Routing Networks & the Challenges of Modular and Compositional Computation](https://arxiv.org/pdf/1904.12774.pdf)
 - [How Do In-Context Examples Affect Compositional Generalization?](https://arxiv.org/pdf/2305.04835.pdf)
 - [Compositional Semantic Parsing With Large Language Models](https://arxiv.org/pdf/2209.15003.pdf)
 
