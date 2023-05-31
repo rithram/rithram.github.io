@@ -16,17 +16,19 @@ which is common in AI/ML where the functions $$F, G$$ are training/validation lo
 
 
 
-## Appearing soon
+## Preprint
 
-- Ram, P., Gray, A. G., Samulowitz, H. C., & Bramble, G. (2023). **Toward Theoretical Guidance for Two Common Questions in Practical Cross-Validation based Hyperparameter Selection**. To appear in *SIAM Internation Conference on Data Mining*. [arXiv](https://arxiv.org/pdf/2301.05131.pdf)
-
-- Gu, A., Lu, S., Ram, P., & Weng, L. (2022). **Min-max Bilevel Multi-objective Optimization with Applications in Machine Learning**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2203.01924.pdf) [OpenReview](https://openreview.net/forum?id=PvDY71zKsvP)
-
-- Zhou, Y., Ram, P., Salonidis, T., Baracaldo, N., Samulowitz, H., & Ludwig, H. (2022). **Single-shot Hyper-parameter Optimization for Federated Learning: A General Algorithm & Analysis**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2202.08338.pdf) [OpenReview](https://openreview.net/forum?id=3RhuF8foyPW)  [slides](./papers/2023/ZRSBSL_ICLR23.slides.pdf) **(notable-top-25%)**
-
-- Zhang, Y., Sharma, P., Ram, P., Hong, M., Varshney, K. R., & Liu, S. (2023) **What Is Missing in IRM Training and Evaluation? Challenges and Solutions**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2303.02343.pdf) [OpenReview](https://openreview.net/forum?id=MjsDeTcDEy)
+- Jia, J., Liu, J., Ram, P., Yao, Y., Liu, G., Liu, Y., Sharma, P., and Liu, S. (2023). **Model sparsification can simplify machine unlearning.** [arXiv](https://arxiv.org/pdf/2304.04934.pdf)
 
 ## Conference
+
+- Ram, P., Gray, A. G., Samulowitz, H. C., & Bramble, G. (2023). **Toward Theoretical Guidance for Two Common Questions in Practical Cross-Validation based Hyperparameter Selection**. *SIAM Internation Conference on Data Mining*. [arXiv](https://arxiv.org/pdf/2301.05131.pdf), [paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch90)
+
+- Gu, A., Lu, S., Ram, P., & Weng, L. (2022). **Min-max Bilevel Multi-objective Optimization with Applications in Machine Learning**. *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2203.01924.pdf) [OpenReview](https://openreview.net/forum?id=PvDY71zKsvP)
+
+- Zhou, Y., Ram, P., Salonidis, T., Baracaldo, N., Samulowitz, H., & Ludwig, H. (2022). **Single-shot Hyper-parameter Optimization for Federated Learning: A General Algorithm & Analysis**. *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2202.08338.pdf) [OpenReview](https://openreview.net/forum?id=3RhuF8foyPW)  [slides](./papers/2023/ZRSBSL_ICLR23.slides.pdf) **(notable-top-25%)**
+
+- Zhang, Y., Sharma, P., Ram, P., Hong, M., Varshney, K. R., & Liu, S. (2023) **What Is Missing in IRM Training and Evaluation? Challenges and Solutions**. *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2303.02343.pdf) [OpenReview](https://openreview.net/forum?id=MjsDeTcDEy)
 
 - Zhang, Y., Yao, Y., Ram, P., Zhao, P., Chen, T., Hong, M. & Liu, S. (2022). **Advancing Model Pruning via Bi-level Optimization**. In *Annual Conference on Neural Information Processing Systems*. [arXiv](https://arxiv.org/pdf/2210.04092.pdf) [OpenReview](https://openreview.net/forum?id=t6O08FxvtBY)
 

@@ -2,7 +2,7 @@
 
 ## Appearing soon
 
-- Saha, B., Krotov D., Zaki, M. J., & Ram, P. (2023) **End-to-end Differentiable Clustering with Associative Memories**. To appear in *International Conference in Machine Learning*. [paper coming soon](./tbd.md) 
+- Saha, B., Krotov D., Zaki, M. J., & Ram, P. (2023) **End-to-end Differentiable Clustering with Associative Memories**. To appear in *International Conference in Machine Learning*. [paper coming soon](./tbd.md), [code](https://github.com/bsaha205/clam) 
 
 
 ## Conferences

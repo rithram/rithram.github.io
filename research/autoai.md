@@ -2,22 +2,20 @@
 
 ## Appearing soon
 
-- Ram, P., Gray, A. G., Samulowitz, H. C., & Bramble, G. (2023). **Toward Theoretical Guidance for Two Common Questions in Practical Cross-Validation based Hyperparameter Selection**. *SIAM Internation Conference on Data Mining*. [arXiv](https://arxiv.org/pdf/2301.05131.pdf)
+- Dube, P., Salonidis, T., Ram, P., & Verma, A. (2023). **Runtime Prediction of Machine Learning Algorithms in AutoML Systems**. To appear in *IEEE International Conference on Acoustics, Speech and Signal Processing*. [paper](https://ieeexplore.ieee.org/abstract/document/10097073)
 
-- Zhou, Y., Ram, P., Salonidis, T., Baracaldo, N., Samulowitz, H., & Ludwig, H. (2023). **Single-shot Hyper-parameter Optimization for Federated Learning: A General Algorithm & Analysis**. To appear in *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2202.08338.pdf) [OpenReview](https://openreview.net/forum?id=3RhuF8foyPW) [slides](./papers/2023/ZRSBSL_ICLR23.slides.pdf) **(notable-top-25%)**
-
-- Dube, P., Salonidis, T., Ram, P., & Verma, A. (2023). **Runtime Prediction of Machine Learning Algorithms in AutoML Systems**. To appear in *IEEE International Conference on Acoustics, Speech and Signal Processing*. *(paper coming soon)*
+- Feffer, M., Hirzel, M., Hoffman, S. C., Kate, K., Ram, P., & Shinnar, A. (2023). **Searching for Fairer Machine Learning Ensembles**. To appear in *International Conference on Automated Machine Learning*. [arXiv-v2](https://arxiv.org/pdf/2210.05594.pdf), [arXiv-v1](https://arxiv.org/pdf/2202.00751.pdf)
 
 ## Preprints
-
-- Feffer, M., Hirzel, M., Hoffman, S. C., Kate, K., Ram, P., & Shinnar, A. (2022). **Navigating Ensemble Configurations for Algorithmic Fairness**. [arXiv](https://arxiv.org/pdf/2210.05594.pdf)
-
-- Feffer, M., Hirzel, M., Hoffman, S. C., Kate, K., Ram, P., & Shinnar, A. (2022). **An empirical study of modular bias mitigators and ensembles**. [arXiv](https://arxiv.org/pdf/2202.00751.pdf)
 
 - Hirzel, M., Kate, K., Shinnar, A., Roy, S., & Ram, P. (2019). **Type-Driven Automated Learning with Lale**. [arXiv](https://arxiv.org/pdf/1906.03957.pdf)
 
 
 ## Conference
+
+- Ram, P., Gray, A. G., Samulowitz, H. C., & Bramble, G. (2023). **Toward Theoretical Guidance for Two Common Questions in Practical Cross-Validation based Hyperparameter Selection**. *SIAM Internation Conference on Data Mining*. [arXiv](https://arxiv.org/pdf/2301.05131.pdf), [paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch90)
+
+- Zhou, Y., Ram, P., Salonidis, T., Baracaldo, N., Samulowitz, H., & Ludwig, H. (2023). **Single-shot Hyper-parameter Optimization for Federated Learning: A General Algorithm & Analysis**. *International Conference in Learning Representations*. [arXiv](https://arxiv.org/pdf/2202.08338.pdf) [OpenReview](https://openreview.net/forum?id=3RhuF8foyPW) [slides](./papers/2023/ZRSBSL_ICLR23.slides.pdf) **(notable-top-25%)**
 
 - Ram, P. (2022). **On the Optimality Gap of Warm-Started Hyperparameter Optimization**. In *International Conference on Automated Machine Learning* (pp. 12-1). PMLR. [paper](https://proceedings.mlr.press/v188/ram22a/ram22a.pdf) [slides](./papers/2022/R_AutoML22.slides.pdf) [proofs](./papers/2022/R_AutoML22.paper.pdf)
 
