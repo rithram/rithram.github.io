@@ -6,6 +6,9 @@
 
 - Feffer, M., Hirzel, M., Hoffman, S. C., Kate, K., Ram, P., & Shinnar, A. (2023). **Searching for Fairer Machine Learning Ensembles**. To appear in *International Conference on Automated Machine Learning*. [arXiv-v2](https://arxiv.org/pdf/2210.05594.pdf), [arXiv-v1](https://arxiv.org/pdf/2202.00751.pdf)
 
+- Lazuka, G., Anghel, A. S., Ram, P., Pozidis, H., Parnell, T. (2023). **xCloudServing: Automated and Optimized ML Serving across Clouds**. To appear in *IEEE International Conference on Cloud Computing*. [paper coming soon](./tbd.md)
+
+
 ## Preprints
 
 - Hirzel, M., Kate, K., Shinnar, A., Roy, S., & Ram, P. (2019). **Type-Driven Automated Learning with Lale**. [arXiv](https://arxiv.org/pdf/1906.03957.pdf)
