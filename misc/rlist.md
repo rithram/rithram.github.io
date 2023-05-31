@@ -136,6 +136,7 @@ Somewhat organized
 - [How Do In-Context Examples Affect Compositional Generalization?](https://arxiv.org/pdf/2305.04835.pdf)
 - [Compositional Semantic Parsing With Large Language Models](https://arxiv.org/pdf/2209.15003.pdf)
 - [Anti-unification and Generalization: A Survey](https://arxiv.org/pdf/2302.00277.pdf)
+- [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/pdf/2305.18654.pdf)
 
 
 ### Experimental Design
