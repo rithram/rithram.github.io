@@ -137,6 +137,7 @@ Somewhat organized
 - [Compositional Semantic Parsing With Large Language Models](https://arxiv.org/pdf/2209.15003.pdf)
 - [Anti-unification and Generalization: A Survey](https://arxiv.org/pdf/2302.00277.pdf)
 - [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/pdf/2305.18654.pdf)
+- [Categorial Compositionality: A Category Theory Explanation for the Systematicity of Human Cognition](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1000858&type=printable)
 
 
 ### Experimental Design
