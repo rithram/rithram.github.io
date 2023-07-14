@@ -138,6 +138,7 @@ Somewhat organized
 - [Anti-unification and Generalization: A Survey](https://arxiv.org/pdf/2302.00277.pdf)
 - [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/pdf/2305.18654.pdf)
 - [Categorial Compositionality: A Category Theory Explanation for the Systematicity of Human Cognition](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1000858&type=printable)
+- [Compositional Generalization from First Principles](https://arxiv.org/pdf/2307.05596.pdf)
 
 
 ### Experimental Design
