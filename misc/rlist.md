@@ -106,6 +106,8 @@ Somewhat organized
 
 #### AutoML / NAS
 
+- [Geometry-Aware Gradient Algorithms for Neural Architecture Search](https://openreview.net/pdf?id=MuSYkd1hxRP)
+
 
 #### AutoML / Runtime Estimation
 
@@ -151,6 +153,8 @@ Somewhat organized
 ### Interpretability
 
 
+- [Discovering State Variables Hidden in Experimental Data](https://arxiv.org/pdf/2112.10755.pdf)
+
 ### Neural Networks for Table
 
 - [Graph Neural Network Contextual Embedding for Deep Learning on Tabular Data](https://arxiv.org/pdf/2303.06455.pdf)
@@ -161,6 +165,7 @@ Somewhat organized
 
 ### Learning Theory
 
+- [Exponentiated Gradient versus Gradient Descent for Linear Predictors](https://tr.soe.ucsc.edu/sites/default/files/technical-reports/UCSC-CRL-94-16.pdf)
 
 
 ### Large Language Models & Transformers
