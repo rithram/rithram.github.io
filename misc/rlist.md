@@ -74,7 +74,7 @@ Somewhat organized
 - [Noisy BBOpt Multi-Fidelity Queries: TreeSearch](https://arxiv.org/pdf/1810.10482.pdf)
 - [Hyperband demo by kgjamieson](https://homes.cs.washington.edu/~jamieson/hyperband.html)
 - [Hyper-parameter Tuning under a Budget Constraint](https://www.ijcai.org/Proceedings/2019/0796.pdf)
-
+- [PFNs4BO: In-Context Learning for Bayesian Optimization](https://arxiv.org/pdf/2305.17535.pdf)
 
 #### AutoML / Combinatorial BBO
 
