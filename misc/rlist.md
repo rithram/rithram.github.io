@@ -160,6 +160,7 @@ Somewhat organized
 - [Graph Neural Network Contextual Embedding for Deep Learning on Tabular Data](https://arxiv.org/pdf/2303.06455.pdf)
 - [Learning Enhanced Representations for Tabular Data via Neighborhood Propagation](https://arxiv.org/pdf/2206.06587.pdf)
 - [Table2Graph: Transforming Tabular Data to Unifed Weighted Graph](https://www.ijcai.org/proceedings/2022/0336.pdf)
+- [UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data](https://arxiv.org/pdf/2307.09249.pdf)
 
 
 
