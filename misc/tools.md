@@ -76,6 +76,7 @@
 - [OpenML CC 18](https://www.openml.org/search?q=tags.tag%3Astudy_98&type=data&listids=1&size=59)
 - [AutoML Benchmark (39 datasets)](https://openml.github.io/automlbenchmark/benchmark_datasets.html)
 - [AMLB: An AutoML Benchmark](https://arxiv.org/pdf/2207.12560.pdf)
+- Tabular dataset benchmark: tree vs DL [paper](https://openreview.net/forum?id=Fp7__phQszn) / [github](https://github.com/LeoGrin/tabular-benchmark)
 
 
 ## Emacs
