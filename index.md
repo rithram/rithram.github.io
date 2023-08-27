@@ -11,6 +11,8 @@ Here is a (loose) categorization of my publications in the different areas:
 - [Bilevel Optimization](./research/bilevel.md)
 - [Automated Machine Learning / Artificial Intelligence / Data Science](./research/autoai.md)
 - [Neuro-Inspired Learning](./research/neuro.md)
+- [Compositional Generalization](./research/compgen.md)
+- [Machine Unlearning](./research/unlearn.md)
 - [Density Estimation](./research/dest.md)
 - [Computation Geometry / All-Pairs Problem](./research/cgallpairs.md)
 - [Similarity Search](./research/simsearch.md)
@@ -29,3 +31,5 @@ You can find a chronologically sorted list of my publications on my [Google Scho
 - [Biosketch](./biosketch.md)
 - Quick access to [tools](./misc/tools.md) I use
 - (Current) Reading [list](./misc/rlist.md)
+- I recently taught some sessions at the Polyhedra and Combinatorial Optimization Days ([JPOC13](https://jpoc13.sciencesconf.org/)) [summer school on Combinatorial Optimization & Machine Learning](https://jpoc13.sciencesconf.org/resource/page/id/4).
+- I am co-organizing the upcoming NeurIPS 2023 workshop on [Associative Memory & Hopfield Networks](https://amhn.vizhub.ai).

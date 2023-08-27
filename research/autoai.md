@@ -2,11 +2,7 @@
 
 ## Appearing soon
 
-- Dube, P., Salonidis, T., Ram, P., & Verma, A. (2023). **Runtime Prediction of Machine Learning Algorithms in AutoML Systems**. To appear in *IEEE International Conference on Acoustics, Speech and Signal Processing*. [paper](https://ieeexplore.ieee.org/abstract/document/10097073)
-
 - Feffer, M., Hirzel, M., Hoffman, S. C., Kate, K., Ram, P., & Shinnar, A. (2023). **Searching for Fairer Machine Learning Ensembles**. To appear in *International Conference on Automated Machine Learning*. [arXiv-v2](https://arxiv.org/pdf/2210.05594.pdf), [arXiv-v1](https://arxiv.org/pdf/2202.00751.pdf)
-
-- Lazuka, G., Anghel, A. S., Ram, P., Pozidis, H., Parnell, T. (2023). **xCloudServing: Automated and Optimized ML Serving across Clouds**. To appear in *IEEE International Conference on Cloud Computing*. [paper coming soon](./tbd.md)
 
 
 ## Preprints
@@ -15,6 +11,10 @@
 
 
 ## Conference
+
+- Lazuka, G., Anghel, A. S., Ram, P., Pozidis, H., Parnell, T. (2023). **xCloudServing: Automated and Optimized ML Serving across Clouds**. To appear in *IEEE International Conference on Cloud Computing*. [paper coming soon](./tbd.md) [abstract](https://research.ibm.com/publications/xcloudserving-automated-and-optimized-ml-serving-across-clouds)
+
+- Dube, P., Salonidis, T., Ram, P., & Verma, A. (2023). **Runtime Prediction of Machine Learning Algorithms in AutoML Systems**. To appear in *IEEE International Conference on Acoustics, Speech and Signal Processing*. [paper](https://ieeexplore.ieee.org/abstract/document/10097073)
 
 - Ram, P., Gray, A. G., Samulowitz, H. C., & Bramble, G. (2023). **Toward Theoretical Guidance for Two Common Questions in Practical Cross-Validation based Hyperparameter Selection**. *SIAM Internation Conference on Data Mining*. [arXiv](https://arxiv.org/pdf/2301.05131.pdf), [paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch90)
 

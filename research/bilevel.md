@@ -16,10 +16,6 @@ which is common in AI/ML where the functions $$F, G$$ are training/validation lo
 
 
 
-## Preprint
-
-- Jia, J., Liu, J., Ram, P., Yao, Y., Liu, G., Liu, Y., Sharma, P., and Liu, S. (2023). **Model sparsification can simplify machine unlearning.** [arXiv](https://arxiv.org/pdf/2304.04934.pdf)
-
 ## Conference
 
 - Ram, P., Gray, A. G., Samulowitz, H. C., & Bramble, G. (2023). **Toward Theoretical Guidance for Two Common Questions in Practical Cross-Validation based Hyperparameter Selection**. *SIAM Internation Conference on Data Mining*. [arXiv](https://arxiv.org/pdf/2301.05131.pdf), [paper](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch90)

@@ -1,11 +1,8 @@
 # Neuro-Inspired Learning
 
-## Appearing soon
-
-- Saha, B., Krotov D., Zaki, M. J., & Ram, P. (2023) **End-to-end Differentiable Clustering with Associative Memories**. To appear in *International Conference in Machine Learning*. [arXiv](https://arxiv.org/pdf/2306.03209.pdf), [code](https://github.com/bsaha205/clam) 
-
-
 ## Conferences
+
+- Saha, B., Krotov D., Zaki, M. J., & Ram, P. (2023) **End-to-end Differentiable Clustering with Associative Memories**. To appear in *International Conference in Machine Learning*. [paper](https://proceedings.mlr.press/v202/saha23a/saha23a.pdf) [arXiv](https://arxiv.org/pdf/2306.03209.pdf), [code](https://github.com/bsaha205/clam) 
 
 - Ram, P., & Sinha, K. (2022). **Federated Nearest Neighbor Classification with a Colony of Fruit-Flies**. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 36, No. 7, pp. 8036-8044). [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20775), [arXiV](https://arxiv.org/pdf/2112.07157.pdf) [code](https://github.com/rithram/flynn)
 
