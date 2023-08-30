@@ -26,10 +26,15 @@ You can find a chronologically sorted list of my publications on my [Google Scho
 - Frameworks/libraries: Pytorch, Scikit-Learn, [Lale](https://github.com/IBM/lale), OpenMP, MPI
 
 
+## News
+
+- (December 2023) I am co-organizing the upcoming NeurIPS 2023 workshop on [Associative Memory & Hopfield Networks](https://amhn.vizhub.ai).
+- (August 2023) I recently taught a [session](./research/papers/2023/DR_NSSS2023.slides.pdf) at the [Neuro-Symbolic Summer School 2023](https://neurosymbolic.github.io/nsss2023/).
+- (June 2023) I recently taught some sessions at the Polyhedra and Combinatorial Optimization Days 2023 ([JPOC13](https://jpoc13.sciencesconf.org/)) [summer school on Combinatorial Optimization & Machine Learning](https://jpoc13.sciencesconf.org/resource/page/id/4).
+
+
 ## Miscellaneous
 
 - [Biosketch](./biosketch.md)
 - Quick access to [tools](./misc/tools.md) I use
 - (Current) Reading [list](./misc/rlist.md)
-- I recently taught some sessions at the Polyhedra and Combinatorial Optimization Days ([JPOC13](https://jpoc13.sciencesconf.org/)) [summer school on Combinatorial Optimization & Machine Learning](https://jpoc13.sciencesconf.org/resource/page/id/4).
-- I am co-organizing the upcoming NeurIPS 2023 workshop on [Associative Memory & Hopfield Networks](https://amhn.vizhub.ai).
