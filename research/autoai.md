@@ -2,7 +2,6 @@
 
 ## Appearing soon
 
-- Feffer, M., Hirzel, M., Hoffman, S. C., Kate, K., Ram, P., & Shinnar, A. (2023). **Searching for Fairer Machine Learning Ensembles**. To appear in *International Conference on Automated Machine Learning*. [arXiv-v2](https://arxiv.org/pdf/2210.05594.pdf), [arXiv-v1](https://arxiv.org/pdf/2202.00751.pdf)
 
 
 ## Preprints
@@ -12,7 +11,9 @@
 
 ## Conference
 
-- Lazuka, G., Anghel, A. S., Ram, P., Pozidis, H., Parnell, T. (2023). **xCloudServing: Automated and Optimized ML Serving across Clouds**. To appear in *IEEE International Conference on Cloud Computing*. [paper coming soon](./tbd.md) [abstract](https://research.ibm.com/publications/xcloudserving-automated-and-optimized-ml-serving-across-clouds)
+- Feffer, M., Hirzel, M., Hoffman, S. C., Kate, K., Ram, P., & Shinnar, A. (2023). **Searching for Fairer Machine Learning Ensembles**. *International Conference on Automated Machine Learning*. [PMLR](https://proceedings.mlr.press/v228/feffer23a), [arXiv-v2](https://arxiv.org/pdf/2210.05594.pdf), [arXiv-v1](https://arxiv.org/pdf/2202.00751.pdf)
+
+- Lazuka, G., Anghel, A. S., Ram, P., Pozidis, H., Parnell, T. (2023). **xCloudServing: Automated and Optimized ML Serving across Clouds**. *IEEE International Conference on Cloud Computing*. [paper](https://ieeexplore.ieee.org/abstract/document/10254993)
 
 - Dube, P., Salonidis, T., Ram, P., & Verma, A. (2023). **Runtime Prediction of Machine Learning Algorithms in AutoML Systems**. To appear in *IEEE International Conference on Acoustics, Speech and Signal Processing*. [paper](https://ieeexplore.ieee.org/abstract/document/10097073)
 
@@ -45,6 +46,8 @@
 
 
 ## Workshop
+
+- Hirzel, M., Ram, P. (2023). **Oversampling to Repair Bias and Imbalance Simultaneously**. **AutoML 2023 Workshop**. [OpenReview](https://openreview.net/forum?id=CF7FzuUkUck)
 
 - Davidovich, O., Ram, P., Wasserkrug, S., Subramaniam, S., Zhou, N., Phan, D., Murali P. & Nguyen, L. (2022). **Addressing Solution Quality in Data Generated Optimization Models**. *AAAI-22 Workshop on AI for Decision Optimization (AI4DO@AAAI'22)*. [paper](https://research.ibm.com/haifa/Workshops/AAAI-22-AI4DO/PDF/Addressing%20Solution%20Quality%20in%20Data%20Generated%20Optimization%20Models.pdf)
 
