@@ -2,7 +2,7 @@
 
 ## Preprints
 
-- Klinger, T., Liu, Q., Dan, S., Crouse, M., Ram, P., & Gray, A. G. (2023) **Compositional Program Generation for Few-shot Systematic Generalization**. [ArXiV](https://arxiv.org/abs/2309.16467)
+- Klinger, T., Liu, Q., Dan, S., Crouse, M., Ram, P., & Gray, A. G. (2023) **Compositional Program Generation for Few-shot Systematic Generalization**. [arXiv](https://arxiv.org/abs/2309.16467)
 
 ## Workshop
 
