@@ -14,6 +14,7 @@ Here is a (loose) categorization of my publications in the different areas:
 - [Compositional Generalization](./research/compgen.md)
 - [In-Context Learning](./research/icl.md)
 - [Machine Unlearning](./research/unlearn.md)
+- [Tabular Data Processing](./research/tab.md)
 - [Density Estimation](./research/dest.md)
 - [Computation Geometry / All-Pairs Problem](./research/cgallpairs.md)
 - [Similarity Search](./research/simsearch.md)

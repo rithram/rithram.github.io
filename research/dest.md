@@ -3,9 +3,9 @@
 
 ## Conference
 
-- Curtin, R., March, W., Ram, P., Anderson, D., Gray, A., & Isbell, C. (2013). **Tree-independent dual-tree algorithms**. In *International Conference on Machine Learning* (pp. 1435-1443). PMLR. [paper](https://proceedings.mlr.press/v28/curtin13.html)
+- Curtin, R., March, W., Ram, P., Anderson, D., Gray, A., & Isbell, C. (2013). **Tree-independent dual-tree algorithms**. *International Conference on Machine Learning* (pp. 1435-1443). PMLR. [paper](https://proceedings.mlr.press/v28/curtin13.html)
 
-- Ram, P., & Gray, A. G. (2011). **Density estimation trees**. In *Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining* (pp. 627-635). [paper](https://www.mlpack.org/papers/det.pdf) [code](https://github.com/mlpack/mlpack/blob/4.0.1/doc/tutorials/det.md)
+- Ram, P., & Gray, A. G. (2011). **Density estimation trees**. *Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining* (pp. 627-635). [paper](https://www.mlpack.org/papers/det.pdf) [code](https://github.com/mlpack/mlpack/blob/4.0.1/doc/tutorials/det.md)
 
 ## Journal
 
@@ -14,5 +14,5 @@
 
 ## Workshop
 
-- Ram, P., & Gray, A. G. (2018). **Fraud detection with density estimation trees**. In *KDD 2017 Workshop on Anomaly Detection in Finance* (pp. 85-94). PMLR. [paper](https://proceedings.mlr.press/v71/ram18a.html)
+- Ram, P., & Gray, A. G. (2018). **Fraud detection with density estimation trees**. *KDD 2017 Workshop on Anomaly Detection in Finance* (pp. 85-94). PMLR. [paper](https://proceedings.mlr.press/v71/ram18a.html)
 
