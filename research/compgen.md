@@ -2,6 +2,8 @@
 
 ## Preprint
 
+- Ito, T., Cocchi, L., Klinger, T., Ram, P., Campbell, M., Hearne, L. (2024) **The Importance of Positional Encoding Initialization in Transformers for Relational Reasoning**. [arXiv](https://arxiv.org/abs/2406.08272)
+
 - Klinger, T., Liu, Q., Dan, S., Crouse, M., Ram, P., and Gray, A. G. (2023) **Compositional Program Generation for Few-shot Systematic Generalization**. [arXiv](https://arxiv.org/abs/2309.16467)
 
 ## Conference
