@@ -30,6 +30,9 @@ You can find a chronologically sorted list of my publications on my [Google Scho
 
 ## News
 
+- (April 2025) I will be speaking on **Associative Memories and its role in ML** at the ICLR 2025 workshop on [New Frontiers for Associative Memories](https://nfam.vizhub.ai).
+- (December 2024) I spoke on **The Critical Role of Fundamental Mathematical Tools on the Path to AGI** at the IIITDM Kancheepuram 2024 workshop on _Future Perspectives of AI and Data Sciences : Algorithms and Applications_ ([video](https://www.youtube.com/watch?v=r_aSWxDCrTc&t=9600s)).
+- (August 2024) I presented our IJCAI 2024 paper, [What makes Models Compositional?](https://www.ijcai.org/proceedings/2024/533), at the [LNSAI](https://sites.google.com/view/lnsai2024/) workshop at IJCAI 2024.
 - (December 2023) I am co-organizing the upcoming NeurIPS 2023 workshop on [Associative Memory & Hopfield Networks](https://amhn.vizhub.ai).
 - (August 2023) I recently taught a [session](./research/papers/2023/DR_NSSS2023.slides.pdf) at the [Neuro-Symbolic Summer School 2023](https://neurosymbolic.github.io/nsss2023/).
 - (June 2023) I recently taught some sessions at the Polyhedra and Combinatorial Optimization Days 2023 ([JPOC13](https://jpoc13.sciencesconf.org/)) [summer school on Combinatorial Optimization & Machine Learning](https://jpoc13.sciencesconf.org/resource/page/id/4).
