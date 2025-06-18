@@ -6,4 +6,4 @@ Parikshit Ram is a Principal Research Staff Member in IBM Research in the Mathem
 
 
 - My latest CV [here](img/pr-cv.pdf) (_updated June 2025_).
-- [Research statement](img/pr-rs.pdf) (_updated February 2025_).
+- [Research statement](img/pr-rs.pdf) (_updated June 2025_).
