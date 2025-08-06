@@ -25,12 +25,13 @@ You can find a chronologically sorted list of my publications on my [Google Scho
 **Experience.**
 
 - Programming languages: Python, C/C++
-- Frameworks/libraries: Pytorch, Scikit-Learn, [Lale](https://github.com/IBM/lale), OpenMP, MPI
+- Frameworks/libraries: Pytorch, JAX, Scikit-Learn, [Lale](https://github.com/IBM/lale), OpenMP, MPI
 
 
 ## News
 
-- (June 2025) I will be organizing a tutorial on Associative Memories at ICML 2025.
+- (August 2025) I will be teaching a session on Compositional Generalization at the [2025 Neuro-Symbolic Summer School](https://www.centaurinstitute.org/education).
+- (June 2025) I organized [a tutorial on Associative Memories](https://tutorial.amemory.net) at ICML 2025.
 - (May 2025) I spoke on [Dense Associative Memories through the lens of Random Features](https://proceedings.neurips.cc/paper_files/paper/2024/file/29ff36c8fbed10819b2e50267862a52a-Paper-Conference.pdf) in the VSAONLINE Spring 2025 season ([video](https://youtu.be/dZ1z06r6fG4)).
 - (April 2025) I spoke on **Associative Memories and its role in ML** at the ICLR 2025 workshop on [New Frontiers for Associative Memories](https://nfam.vizhub.ai).
 - (December 2024) I spoke on **The Critical Role of Fundamental Mathematical Tools on the Path to AGI** at the IIITDM Kancheepuram 2024 workshop on _Future Perspectives of AI and Data Sciences : Algorithms and Applications_ ([video](https://www.youtube.com/watch?v=r_aSWxDCrTc&t=9600s)).
