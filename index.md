@@ -34,7 +34,7 @@ You can find a chronologically sorted list of my publications on my [Google Scho
 - (August 2025) I spoke on Compositional Generalization at the [2025 Neuro-Symbolic Summer School](https://www.centaurinstitute.org/education) ([video](https://www.youtube.com/watch?v=zVJ59vIden0&t=15555s)).
 - (June 2025) I organized [a tutorial on Associative Memories](https://tutorial.amemory.net) at ICML 2025.
 - (May 2025) I spoke on [Dense Associative Memories through the lens of Random Features](https://proceedings.neurips.cc/paper_files/paper/2024/file/29ff36c8fbed10819b2e50267862a52a-Paper-Conference.pdf) in the VSAONLINE Spring 2025 season ([video](https://youtu.be/dZ1z06r6fG4)).
-- (April 2025) I spoke on **Associative Memories and its role in ML** at the ICLR 2025 workshop on [New Frontiers for Associative Memories](https://nfam.vizhub.ai).
+- (April 2025) I spoke on **Associative Memories and its role in ML** at the ICLR 2025 workshop on [New Frontiers for Associative Memories](https://nfam.vizhub.ai) ([video](https://slideslive.com/39038118/symbiosis-of-associative-memories-and-machine-learning)).
 - (December 2024) I spoke on **The Critical Role of Fundamental Mathematical Tools on the Path to AGI** at the IIITDM Kancheepuram 2024 workshop on _Future Perspectives of AI and Data Sciences : Algorithms and Applications_ ([video](https://www.youtube.com/watch?v=r_aSWxDCrTc&t=9600s)).
 - (August 2024) I presented our IJCAI 2024 paper, [What makes Models Compositional?](https://www.ijcai.org/proceedings/2024/533), at the [LNSAI](https://sites.google.com/view/lnsai2024/) workshop at IJCAI 2024.
 - (December 2023) I am co-organizing the upcoming NeurIPS 2023 workshop on [Associative Memory & Hopfield Networks](https://amhn.vizhub.ai).
