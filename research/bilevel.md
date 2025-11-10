@@ -15,6 +15,20 @@ $$
 which is common in AI/ML where the functions $$F, G$$ are training/validation losses on some batch of the data.
 
 
+## Preprint
+
+- Fernando, H., Shen, H., Ram, P., Zhou, Y., Samulowitz, H., Baracaldo, N. and Chen, T. (2024) **Mitigating forgetting in llm supervised fine-tuning and preference learning**. [paper](https://arxiv.org/abs/2410.15483)
+
+
+## Chapter
+
+- Zhou, Y., Ram, P., Salonidis, T., Baracaldo, N., Samulowitz, H. and Ludwig, H. (2024) **Hyper-parameter Optimization in Federated Learning**. *Federated Learning (pp. 237-255)*. Academic Press.
+
+
+## Journal
+
+- Alam, M.I.I., Ram, P., Dan, S., Samulowitz, H. and Kar, K. (2025) **On the Utility of Existing Fine-Tuned Models on Data-Scarce Domains**. *Transactions on Machine Learning Research*. [paper](https://openreview.net/pdf?id=kY2fKLOGkI)
+
 
 ## Conference
 
@@ -36,6 +50,8 @@ which is common in AI/ML where the functions $$F, G$$ are training/validation lo
 
 
 ## Workshop
+
+- Abbas, M., Zhou, Y., Baracaldo, N., Samulowitz, H., Ram, P. and Salonidis, T. (2024) **Byzantine-resilient Bilevel Federated Learning**. *IEEE Sensor Array and Multichannel Signal Processing Workshop. [paper](https://ieeexplore.ieee.org/abstract/document/10636694)
 
 - Fan, C., Ram, P., & Liu, S. (2021). **Sign-MAML: Efficient Model-Agnostic Meta-Learning by SignSGD**. *5th Workshop on Meta-Learning at NeurIPS 2021* [arXiv](https://arxiv.org/pdf/2109.07497.pdf)
 

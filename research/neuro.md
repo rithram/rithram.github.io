@@ -1,6 +1,14 @@
-# Neuro-Inspired Learning
+# Neuro-Inspired Learning & Associative Memories
+
+## Lecture notes 
+
+- Krotov, D., Hoover, B., Ram, P. and Pham, B. (2025) **Modern Methods in Associative Memory**. [paper](https://arxiv.org/abs/2507.06211)
 
 ## Conference
+
+- Hoover, B., Shi, Z., Balasubramanian, K., Krotov, D. and Ram, P. (2025) **Dense Associative Memory with Epanechnikov Energy**. *Advances in Neural Information Processing Systems*. [paper](https://openreview.net/pdf?id=ZbQ5Zq3zA3)
+
+- Hoover, B., Chau, D.H., Strobelt, H., Ram, P. and Krotov, D. (2024) **Dense Associative Memory through the Lens of Random Features**. *Advances in Neural Information Processing Systems*. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/29ff36c8fbed10819b2e50267862a52a-Paper-Conference.pdf), [code](https://github.com/bhoov/distributed_DAM)
 
 - Saha, B., Krotov D., Zaki, M. J., & Ram, P. (2023) **End-to-end Differentiable Clustering with Associative Memories**. *International Conference in Machine Learning*. [paper](https://proceedings.mlr.press/v202/saha23a/saha23a.pdf) [arXiv](https://arxiv.org/pdf/2306.03209.pdf), [code](https://github.com/bsaha205/clam) 
 
