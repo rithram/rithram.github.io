@@ -30,7 +30,8 @@ You can find a chronologically sorted list of my publications on my [Google Scho
 
 ## News
 
-- (Upcoming) I will be organizing [a tutorial on Associative Memories](https://tutorial.amemory.net) at AAAI 2026.
+- (April 2026) I spoke at a panel on **Associative Memory and AI: Past, present, and future** at the ICLR 2026 workshop on [New Frontiers for Associative Memories](https://nfam2026.amemory.net)
+- (January 2026) I organized [a tutorial on Associative Memories](https://tutorial.amemory.net) at AAAI 2026.
 - (August 2025) I spoke on Compositional Generalization at the [2025 Neuro-Symbolic Summer School](https://www.centaurinstitute.org/education) ([video](https://www.youtube.com/watch?v=zVJ59vIden0&t=15555s)).
 - (June 2025) I organized [a tutorial on Associative Memories](https://tutorial.amemory.net) at ICML 2025.
 - (May 2025) I spoke on [Dense Associative Memories through the lens of Random Features](https://proceedings.neurips.cc/paper_files/paper/2024/file/29ff36c8fbed10819b2e50267862a52a-Paper-Conference.pdf) in the VSAONLINE Spring 2025 season ([video](https://youtu.be/dZ1z06r6fG4)).
