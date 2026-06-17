@@ -15,7 +15,7 @@ Here is a (loose) categorization of my publications in the different areas:
 - [Automated Machine Learning / Artificial Intelligence / Data Science](./research/autoai.md)
 - [Machine Unlearning](./research/unlearn.md)
 - [Tabular Data Processing](./research/tab.md)
-- [Density Estimation](./research/dest.md)
+- [Density Estimation / Flow Matching](./research/dest.md)
 - [Computation Geometry / All-Pairs Problem](./research/cgallpairs.md)
 - [Similarity Search](./research/simsearch.md)
 

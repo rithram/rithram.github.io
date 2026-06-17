@@ -18,6 +18,8 @@
 
 ## Workshop
 
+- Pham, B., Hoover, B., Krotov, D. and Ram, P. (2026) **Energy Minimization for Training Dense Associative Memory**. *New Frontiers in Associative Memories-Workshop at ICLR 2026*. [paper](https://openreview.net/forum?id=d7PjRsguov)
+
 - Saha, B., Krotov D., Zaki, M. J., & Ram, P. (2023) **End-to-end Differentiable Clustering with Associative Memories**. *ICML 2023 workshop on Differentiable Almost Everything: Differentiable Relaxations, Algorithms, Operators, and Simulators*. [paper](https://differentiable.xyz/papers/paper_68.pdf) 
 
 - Ram, P., & Sinha, K. (2021). **FlyNN: Fruit-fly Inspired Federated Nearest Neighbor Classification**. *International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2021 (FL-ICML'21)* (no official proceedings). [paper](https://par.nsf.gov/servlets/purl/10334400)

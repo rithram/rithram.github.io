@@ -17,7 +17,9 @@ which is common in AI/ML where the functions $$F, G$$ are training/validation lo
 
 ## Preprint
 
-- Fernando, H., Shen, H., Ram, P., Zhou, Y., Samulowitz, H., Baracaldo, N. and Chen, T. (2024) **Mitigating forgetting in llm supervised fine-tuning and preference learning**. [paper](https://arxiv.org/abs/2410.15483)
+- Fernando, H., Ram, P., Zhou, Y., Dan, S., Samulowitz, H., Baracaldo, N. and Chen, T. (2025) **Mitigating Modality Imbalance in Multi-modal Learning via Multi-objective Optimization**. [arXiv](https://arxiv.org/abs/2511.06686)
+
+- Fernando, H., Shen, H., Ram, P., Zhou, Y., Samulowitz, H., Baracaldo, N. and Chen, T. (2024) **Mitigating forgetting in LLM supervised fine-tuning and preference learning**. [paper](https://arxiv.org/abs/2410.15483)
 
 
 ## Chapter

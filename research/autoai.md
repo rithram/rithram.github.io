@@ -6,6 +6,8 @@
 
 ## Preprints
 
+- Fernando, H., Ram, P., Zhou, Y., Dan, S., Samulowitz, H., Baracaldo, N. and Chen, T. (2025) **Mitigating Modality Imbalance in Multi-modal Learning via Multi-objective Optimization**. [arXiv](https://arxiv.org/abs/2511.06686)
+
 - Hirzel, M., Kate, K., Shinnar, A., Roy, S., & Ram, P. (2019). **Type-Driven Automated Learning with Lale**. [arXiv](https://arxiv.org/pdf/1906.03957.pdf)
 
 

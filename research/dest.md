@@ -1,5 +1,9 @@
 # Density Estimation
 
+## Preprints
+
+- Helbling, A., Hernandez, S.G., Hoover, B., Chau, D.H. and Ram, P. (2026) **What Time Is It? How Data Geometry Makes Time Conditioning Optional for Flow Matching**. [arXiv](https://arxiv.org/abs/2605.08344)
+
 
 ## Conference
 
@@ -13,6 +17,8 @@
 
 
 ## Workshop
+
+- Helbling, A., Ram, P.,  Chau, D.H. and Hoover, B. (2026) **EnergyMap: Unraveling the Data Manifold with Energy-based Dimensionality Reduction**. *New Frontiers in Associative Memories-Workshop at ICLR 2026*. [paper](https://openreview.net/forum?id=j54THG4KAY)
 
 - Ram, P., & Gray, A. G. (2018). **Fraud detection with density estimation trees**. *KDD 2017 Workshop on Anomaly Detection in Finance* (pp. 85-94). PMLR. [paper](https://proceedings.mlr.press/v71/ram18a.html)
 
